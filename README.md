@@ -6,6 +6,9 @@
 3. Select a slot on the board - keep doing this until a player wins, or the game ends.
 
 Board layout is as such:
+
 1 2 3
+
 4 5 6
+
 7 8 9
