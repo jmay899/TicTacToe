@@ -3,7 +3,7 @@
 #### Instructions:
 1. Download and run the TicTacToe.py file
 2. Find a player 1 and player 2
-3. Select a slot on the board - keep doing this until a player wins, or the game ends.
+3. Select a slot on the board - keep doing this until a player wins, or the game ends in a tie.
 
 Board layout is as such:
 
